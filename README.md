@@ -1,5 +1,9 @@
-# Health Companion legal
+# Health Companion legal (moved)
 
-> **Moved.** Health Companion's pages now live on the Volpin site, from [daniel-volpin/daniel-volpin.github.io](https://github.com/daniel-volpin/daniel-volpin.github.io): [landing](https://daniel-volpin.github.io/health-companion/), [support](https://daniel-volpin.github.io/health-companion/support/) and [privacy](https://daniel-volpin.github.io/health-companion/privacy/). Make changes there. This page stays online, unchanged, until every App Store listing uses the new URLs.
+Health Companion's pages live on the Volpin site, from [daniel-volpin/daniel-volpin.github.io](https://github.com/daniel-volpin/daniel-volpin.github.io):
 
-Privacy policy and support page for Health Companion, published by GitHub Pages from `main` at <https://daniel-volpin.github.io/health-companion-legal/>.
+- [Landing](https://daniel-volpin.github.io/health-companion/)
+- [Support](https://daniel-volpin.github.io/health-companion/support/)
+- [Privacy](https://daniel-volpin.github.io/health-companion/privacy/)
+
+This archived repository only serves redirects from the old `https://daniel-volpin.github.io/health-companion-legal/` URL; `#privacy` and `#support` go to the matching page. Make changes in the Volpin site repository.
